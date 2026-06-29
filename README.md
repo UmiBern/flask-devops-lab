@@ -1,4 +1,4 @@
-# Flask DevOps Lab A
+# Flask DevOps Lab B
 
 ## Usage
 ```
